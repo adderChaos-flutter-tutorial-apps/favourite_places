@@ -1,16 +1,5 @@
-# favourite_places
+# Favourite Places List App
 
-A new Flutter project.
+A Flutter app to store a list of favourite user locations. Makes use of native device camera, google maps and geocoding API, etc and stores the image and data in a local database using sqflite package
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://github.com/adderChaos-flutter-tutorial-apps/favourite_places/blob/main/fav_places.gif)
